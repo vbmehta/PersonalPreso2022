@@ -23,48 +23,48 @@ I also got an opportunity at SunGard to Play a Lead Technical Architect role in 
 
 ---
 # My Driving Force
-### Driving force - Technology 
 
-### Reason – I started Career at Helpdesk Engineer, but in my journey I got opportunity to work all different technology EMC VMware Backup Cisco & Cloud.
+ Driving force - Technology 
+&nbsp;
+ Reason – I started Career at Helpdesk Engineer, but in my journey I got opportunity to work all different technology EMC VMware Backup Cisco & Cloud.
 
 ----
 # My thoughts on opportunities and challenges
 
-### I consider all Challanges are opportunity to demonstrate and develop
+ I consider all Challanges are opportunity to demonstrate and develop
+&nbsp;
+**_whenever there is a challenge there is also an opportunity to face it , to demonstrate and develop our will and determination **_	- Dalai Lama
+&nbsp;
 
-
-## **_whenever there is a challenge there is also an opportunity to face it , to demonstrate and develop our will and determination **_	- Dalai Lama
-
-
-
-
-### Standard Charter – Switch Migration success story
+Standard Charter – Switch Migration success story
 
 ---
 
 # Last 12 months Achievements & Impact on Business
-#### I had been taking care of some key Accounts
+ I had been taking care of some key Accounts
 - #### MLB
 - #### Brixmor
 - #### Fanduel 
-### I added one more key accounts to my profile 
+I added one more key accounts to my profile 
 - ####  Roblox
-  ### Impact – I play small role with help of an amazing team, but it has a bigger impact on business 
----
 
+   Impact – I play small role with help of an amazing team, but it has a bigger impact on business 
+---
 # Top professional accomplishment in the last 12 months
 
-## HYCU on job training
-## MLB – Avamar to HYCU migration
-## Managing MLB HYCU Environment along with team
-## Roblox PMV's every week 
+
+- HYCU on job training
+- MLB – Avamar to HYCU migration
+- Managing MLB HYCU Environment along with team
+- Roblox PMV's every week 
 
 ---
 #   Value added to the business over the last 12 months
 
-## “We see our customer as invited guest to a party , and we are the hosts. Its is our job to make the customer experience a little bit better” -- Jeff Bezos
+**_“We see our customer as invited guest to a party , and we are the hosts. Its is our job to make the customer experience a little bit better” -- Jeff Bezos**_
+&nbsp;
 
-### There is direct relation of customer to business, being consistent Productive and supportive team member , our team ensure to keep our customer happy, which eventually got all the key customer's contract renewed for next 12 months
+There is direct relation of customer to business, being consistent Productive and supportive team member , our team ensure to keep our customer happy, which eventually got all the key customer's contract renewed for next 12 months
 
 ---
 
