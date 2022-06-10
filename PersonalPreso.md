@@ -75,7 +75,11 @@ I also got an opportunity at SunGard to Play a Lead Technical Architect role in 
 ## This year , I would try to focus on getting certification , I tried it last year to appear for AWS and got off track. I would stay focus this year and achieve at least 1-2 certification. 
 
 ---
-
+<style>
+h1{
+text-align: center;
+}
+</style>
 
   #                                   Thank You
 
