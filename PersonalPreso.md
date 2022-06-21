@@ -7,7 +7,7 @@ Style
 
 ---
 ## Vaibhav Mehta (VB)
-#### Senior Technical Consultant
+#### Senior Engineer
 
 
 ![bg left:50%](vb.jpg)
@@ -32,9 +32,9 @@ I also got an opportunity at SunGard to Play a Lead Technical Architect role in 
 ----
 # My thoughts on opportunities and challenges
 
- I consider all Challanges are opportunity to demonstrate and develop.
+ I consider all challanges are opportunity to demonstrate and develop.
 &nbsp;
-**_whenever there is a challenge there is also an opportunity to face it , to demonstrate and develop our will and determination **_	- Dalai Lama
+**_whenever there is a challenge there is also an opportunity to face it,to demonstrate and develop our will and determination **_	- Dalai Lama
 &nbsp;
 
 Standard Charter – Switch migration success story
@@ -55,7 +55,7 @@ I added one more key accounts to my profile
 # Top professional accomplishment in the last 12 months
 
 
-- HYCU on job training
+- HYCU on job training for MLB Customer
 - MLB – Avamar to HYCU migration
 - Successful Roblox PMV's every week 
 
