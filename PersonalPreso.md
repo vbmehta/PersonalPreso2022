@@ -14,7 +14,7 @@ Style
 ----
 -----
 # About Me
-Senior Technical Consultant with 21 years of total IT experience. Major part of my career worked with Fusionstorm/Computacenter 
+Senior Engineer with 21 years of total IT experience. Major part of my career worked with Fusionstorm/Computacenter 
 
 SME on EMC/Dell Storage Backup & Disaster Recovery Solution’s 
 
