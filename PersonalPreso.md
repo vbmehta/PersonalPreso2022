@@ -42,7 +42,7 @@ Standard Charter – Switch migration success story
 ---
 
 # Last 12 months Achievements & Impact on Business
- I had been managing some key Accounts
+ I had been managing & helping on some key Accounts
 
 - #### MLB
 - #### Brixmor
@@ -76,7 +76,7 @@ I learned HYCU backup software and helped MLB with migration.
 &nbsp;
 
 
-This year , I would try to focus on getting certification , I tried it last year to appear for AWS and got off track. I would stay focus this year and achieve at least 1-2 certification. 
+This year , I will try to focus on getting certification , I tried last year to appear for AWS and got off track, this year will try to achieve at least 1-2 certification. 
 
 ---
 <style>
